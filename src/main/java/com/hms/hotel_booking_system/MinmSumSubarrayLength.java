@@ -7,7 +7,7 @@ public class MinmSumSubarrayLength {
         public static void main(String[] args){
             int[] arr = {1,2,3,7,4,5};
             int n = arr.length;
-            int target = 14;
+            int target = 17;
 
             int left = 0;
             int minLength = Integer.MAX_VALUE;
